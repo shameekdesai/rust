@@ -1,0 +1,38 @@
+  189  rustc 1.rs 
+  192  ext install rust-lang.rust
+  193  sudo apt-get  install rust-lang.rust
+  194  sudo apt-get search  rust-lang.rust
+  195  sudo apt search  rust-lang.rust.
+  196  sudo apt-get install rust-lang.rust
+  225  rustc hello.rs 
+  232  rustup self uninstall
+  233  find rust
+  248  apt remove purge rust
+  249  sudo apt remove purge rust
+  251  rustup self uninstall
+  254  rust --version
+  255  rustup --version
+  256  rustc --version
+  263  locate rust
+  266  cat rust.nanorc 
+  267  sudo rm rust.nanorc 
+  269  locate rust
+  270  rm /usr/share/nano/rust.nanorc
+  271  rm /usr/share/mime/text/rust.xml 
+  272  sudo rm /usr/share/mime/text/rust.xml 
+  273* locate rust | grep ru
+  276  sudo apt remove --purge rust
+  277  sudo apt removepurge rust
+  278  sudo apt remove purge rust
+  284  locate rust*
+  285  locate rust
+  286  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  289  file rust
+  290  cd rust-lld
+  291  file rust*
+  293  locate rustup
+  294  rustup self uninstall
+  298  history | grep rust*
+  299  history | grep rust
+  300  history | grep rust*
+  301  history | grep rust*>rust.txt
